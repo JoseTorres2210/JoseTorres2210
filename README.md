@@ -14,3 +14,6 @@ proyectos y mis intereses.
 * [Lista de tus proyectos]
 ## Intereses
 * [Astronomía]
+* [Ciclismo]
+* [Programación]
+  
